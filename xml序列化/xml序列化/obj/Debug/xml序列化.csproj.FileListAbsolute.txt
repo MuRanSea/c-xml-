@@ -1,0 +1,9 @@
+E:\VSProjects\xml序列化\xml序列化\bin\Debug\xml序列化.exe.config
+E:\VSProjects\xml序列化\xml序列化\bin\Debug\xml序列化.exe
+E:\VSProjects\xml序列化\xml序列化\bin\Debug\xml序列化.pdb
+E:\VSProjects\xml序列化\xml序列化\obj\Debug\xml序列化.csproj.CoreCompileInputs.cache
+E:\VSProjects\xml序列化\xml序列化\obj\Debug\xml序列化.exe
+E:\VSProjects\xml序列化\xml序列化\obj\Debug\xml序列化.pdb
+E:\VSProjects\xml序列化\xml序列化\bin\Debug\Newtonsoft.Json.dll
+E:\VSProjects\xml序列化\xml序列化\bin\Debug\Newtonsoft.Json.xml
+E:\VSProjects\xml序列化\xml序列化\obj\Debug\xml序列化.csprojResolveAssemblyReference.cache

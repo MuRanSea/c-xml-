@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GPS_TRACK>
+  <ID>c3715fe09d3b48c88bbc044eda251ae2</ID>
+  <DeviceName>冷水滩分局警保湘M1710??</DeviceName>
+  <GPSID>1000059</GPSID>
+  <GPSTIME>2017-08-09 22:53:09</GPSTIME>
+  <Longitude>111.615814</Longitude>
+  <Latitude>26.431388</Latitude>
+  <Speed>30</Speed>
+  <Direction>1</Direction>
+  <Height>100</Height>
+  <Antenna>1</Antenna>
+  <Stars>20</Stars>
+  <Angle>179</Angle>
+  <Ywxtly>4g图传</Ywxtly>
+</GPS_TRACK>

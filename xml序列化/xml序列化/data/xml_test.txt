@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GPS_TRACK >
+  <ID>123</ID>
+  <GPSID>6595</GPSID>
+  <GPSTIME>2017-08-08 19:53:25</GPSTIME>
+  <Longitude>22.25</Longitude>
+  <Latitude>26.41978</Latitude>
+  <Speed>0</Speed>
+  <Direction>0</Direction>
+  <Height>512</Height>
+  <Ywxtly>350M系统</Ywxtly>
+</GPS_TRACK>
